@@ -17,3 +17,5 @@ Essa proposta pretende utilizar sensores que detectam a luminosidade e a umidade
 Sensores utilizados:
 - Sensor de umidade e temperatura.
 - Sensor de luminosidade.
+
+![sensor 02](https://user-images.githubusercontent.com/70977967/170625568-789990a0-974e-4cb4-8bca-29a1dbb77a81.png)
