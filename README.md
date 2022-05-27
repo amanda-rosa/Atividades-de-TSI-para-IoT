@@ -1,6 +1,6 @@
 # Proposta 1: Sistema de iluminação de LED acionada por movimento.
 
-Essa proposta pretende utilizar sensores que detectam seu movimento durante a noite e acender as luzes de LED, conforme a presença é detectada. Porque a noite principalmente as vezes da um certo medo de andar no escuro de madrugada até o local para acender a luz. Esse sensor, ajudaria no propósito e a luz não ficaria acesa, já que o sensor iria apagar conforme não sentisse mais a presença da pessoa, dessa forma economizando energia também .
+Essa proposta pretende utilizar sensores que detectam seu movimento durante a noite e acender as luzes de LED, conforme a presença é detectada. Porque a noite principalmente de madrugada, as vezes da um certo medo de andar no escuro até o local para acender a luz. Esse sensor, ajudaria no propósito e a luz não ficaria acesa, já que o sensor iria apagar conforme não sentisse mais a presença da pessoa, dessa forma economizando energia também .
 
 Sensores utilizados:
 - Sensor de movimento
