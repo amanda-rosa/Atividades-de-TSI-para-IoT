@@ -4,3 +4,8 @@ Está proposta pretende utilizar sensores que detectam seu movimento durante a n
 
 Sensores utilizados:
 - Sensor de movimento
+
+![sensor 01](https://user-images.githubusercontent.com/70977967/170621151-aab002d2-3cce-438d-92e8-a6300278d2ae.png)
+
+
+
