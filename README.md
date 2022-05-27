@@ -19,3 +19,5 @@ Sensores utilizados:
 - Sensor de luminosidade.
 
 ![sensor 02](https://user-images.githubusercontent.com/70977967/170625568-789990a0-974e-4cb4-8bca-29a1dbb77a81.png)
+
+Essa imagem ilustra um vaso com plantas de uma casa. Com os sensores utilizados iremos monitorar a plantar, saber quando a planta deve receber luz solar. Conforme as ações da plantas irá acender luzes de acordo com a situação. Vermelho, se estiver seco. Verde, se estiver úmido. E amarelo, quando precisar de luz.
