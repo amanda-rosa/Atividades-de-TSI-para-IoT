@@ -10,7 +10,7 @@ Sensores utilizados:
 
 Essa imagem ilustra os corredores de uma casa com os sensores. O sensor irá detectar a presença de pessoas no local durante a noite e a luz de LED será acendida automaticamente.
 
-#Proposta 2: Vaso inteligente para plantas
+# Proposta 2: Vaso inteligente para plantas
 
 Essa proposta pretende utilizar sensores que detectam a luminosidade e a umidade que a planta recebe, se está realmente adequada. Dessa forma, monitoramos a variação da umidade e da luz.
 
